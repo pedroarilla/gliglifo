@@ -1,0 +1,12 @@
+/* TEAM */
+	Deign & Code: Pedro Arilla
+	Contact: info [at] pedroarilla.com
+	Twitter: @pedroarilla
+	From: London, UK
+
+/* SITE */
+	Last update: 2019/03/18
+	Version: 3.0
+	Language: Spanish
+	Doctype: HTML5 + CSS3
+	IDE: Atom, GitHub, and Spotify
