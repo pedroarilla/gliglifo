@@ -81,12 +81,12 @@ a, a:focus {
 .cover-panel {
   color: white;
 }
-#cover-evento {
-  background-color: #bd5397;
-  border-color: #bd5397;
+#cover-mini {
+  background-color: #e36143;
+  border-color: #e36143;
   opacity: 0.8;
 }
-#cover-evento:hover {
+#cover-mini:hover {
   background-color: #9e2e76;
   border-color: #9e2e76;
   opacity: 0.95;
@@ -183,8 +183,8 @@ margin:-125px 0 0;
 #curso-intro {
   background-color: #5eaedd;
 }
-#evento-intro {
-  background-color: #bd5397;
+#mini-intro {
+  background-color: #e36143;
 }
 #info-intro {
   background-color: #959da2;
@@ -208,8 +208,8 @@ margin:-125px 0 0;
 #curso-programa {
   background-color: #5eaedd;
 }
-#evento-programa {
-  background-color: #bd5397;
+#mini-programa {
+  background-color: #e36143;
 }
 .programa-lista li {
   font-size: 19px;
@@ -248,8 +248,8 @@ margin:-125px 0 0;
 #curso-lugar {
   background-color: #5eaedd;
 }
-#evento-lugar {
-  background-color: #bd5397;
+#mini-lugar {
+  background-color: #e36143;
 }
 .lugar div p a  {
   color: white;
@@ -269,8 +269,8 @@ margin:-125px 0 0;
 .inscripcion div div p a:hover {
   box-shadow: 0 5px 0 0 black;
 }
-#newsletter-evento {
-  background-color: #bd5397;
+#newsletter-mini {
+  background-color: #e36143;
   color: white;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -292,13 +292,13 @@ margin:-125px 0 0;
   background-color: #959da2;
 }
 .contacto div p a,
-#newsletter-evento div p a,
+#newsletter-mini div p a,
 #newsletter-curso div p a {
   color: white;
   box-shadow: 0 1px 0 0 white;
 }
 .contacto div p a:hover,
-#newsletter-evento div p a:hover,
+#newsletter-mini div p a:hover,
 #newsletter-curso div p a:hover {
   box-shadow: 0 5px 0 0 white;
 }
@@ -325,6 +325,9 @@ margin:-125px 0 0;
 }
 .plus20 {
   margin-bottom:20px;
+}
+.plus40 {
+  margin-bottom:40px;
 }
 .footer {
   width: 100%;

@@ -1,12 +1,12 @@
 /* TEAM */
 	Deign & Code: Pedro Arilla
-	Contact: info [at] pedroarilla.com
+	Contact: pedroarilla [at] gmail.com
 	Twitter: @pedroarilla
-	From: London, UK
+	From: Málaga, ES
 
 /* SITE */
-	Last update: 2020/03/29
-	Version: 3.1
+	Last update: 2022/09/15
+	Version: 3.2
 	Language: Spanish
 	Doctype: HTML5 + CSS3
 	IDE: Atom, GitHub
