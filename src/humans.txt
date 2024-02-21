@@ -1,12 +1,12 @@
 /* TEAM */
-	Deign & Code: Pedro Arilla
+	Design & Code: Pedro Arilla
 	Contact: pedroarilla [at] gmail.com
 	Twitter: @pedroarilla
 	From: Málaga, ES
 
 /* SITE */
-	Last update: 2022/09/15
-	Version: 3.2
+	Last update: 2024/02/17
+	Version: 3.3
 	Language: Spanish
 	Doctype: HTML5 + CSS3
-	IDE: Atom, GitHub
+	IDE: Sublime Text, GitHub
