@@ -5,7 +5,7 @@
 	From: Málaga, ES
 
 /* SITE */
-	Last update: 2024/02/17
+	Last update: 2024/02/22
 	Version: 3.3
 	Language: Spanish
 	Doctype: HTML5 + CSS3
